@@ -2,14 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter_zhihu/utils/http.dart';
 import 'package:flutter_swiper/flutter_swiper.dart';
 import 'package:flutter_zhihu/utils/shared_preferences.dart';
-import '../utils/http.dart';
-import '../widget/news_item.dart';
-import 'news_detail.dart';
-import '../widget/home_drawer.dart';
-import '../theme/theme_style.dart';
-import '../utils/config.dart';
+import 'package:flutter_zhihu/widget/news_item.dart';
+import 'package:flutter_zhihu/pages/news_detail.dart';
+import 'package:flutter_zhihu/widget/home_drawer.dart';
+import 'package:flutter_zhihu/theme/theme_style.dart';
+import 'package:flutter_zhihu/utils/config.dart';
 import 'package:cached_network_image/cached_network_image.dart';
-
 
 
 class HomePage extends StatefulWidget{

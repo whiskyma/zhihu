@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../model/author.dart';
+import 'package:flutter_zhihu/model/author.dart';
 
 
 class NoticePage extends StatefulWidget{

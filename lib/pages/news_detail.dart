@@ -2,10 +2,10 @@
 
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
-import '../utils/http.dart';
+import 'package:flutter_zhihu/utils/http.dart';
 import 'package:flutter_html/flutter_html.dart';
-import '../widget/open_img.dart';
-import '../theme/theme_style.dart';
+import 'package:flutter_zhihu/widget/open_img.dart';
+import 'package:flutter_zhihu/theme/theme_style.dart';
 
 
 class NewsDetail extends StatefulWidget{

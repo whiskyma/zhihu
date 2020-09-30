@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-import '../pages/home_page.dart';
-import '../pages/setting_page.dart';
-import '../pages/notice_page.dart';
-import '../pages/news_detail.dart';
-import '../widget/open_img.dart';
+import 'package:flutter_zhihu/pages/home_page.dart';
+import 'package:flutter_zhihu/pages/setting_page.dart';
+import 'package:flutter_zhihu/pages/notice_page.dart';
+import 'package:flutter_zhihu/pages/news_detail.dart';
+import 'package:flutter_zhihu/widget/open_img.dart';
 
 
 
